@@ -1,6 +1,6 @@
 Name:		texlive-emoji
 Version:	59961
-Release:	1
+Release:	2
 Summary:	Emoji support in (Lua)LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/emoji
